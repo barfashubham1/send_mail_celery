@@ -127,7 +127,7 @@ CELERY_TASK_SERIALIZER = 'json'
 
 EMAIL_HOST = 'smtp.fastmail.com'
 EMAIL_PORT = 465
-EMAIL_HOST_USER = 'barfashubham1@gmail.com'
-EMAIL_HOST_PASSWORD = 'gmail-ShubhPwd456123*'
+EMAIL_HOST_USER = 'host@mail.com'
+EMAIL_HOST_PASSWORD = 'password'
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
